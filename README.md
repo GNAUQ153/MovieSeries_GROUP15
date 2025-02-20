@@ -48,6 +48,6 @@ The project uses a modular, layered structure:
 3. Apply migrations:
    ```bash
    dotnet ef database update --project MovieSeries.DataAccessLayer
-4.Run the application:
+4. Run the application:
    ```bash
    dotnet run --project MovieSeries.API
